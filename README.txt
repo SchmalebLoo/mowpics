@@ -1,4 +1,4 @@
-# No AI Pinterest Clone
+# Mowpics
 
 This repository is for a Pinterest-like platform designed to identify and remove AI-generated photos through community voting and automated analysis tools.
 
