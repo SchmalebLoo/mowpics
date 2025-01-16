@@ -1,6 +1,6 @@
 # Mowpics
 
-This repository is for a Pinterest-like platform designed to identify and remove AI-generated photos through community voting and automated analysis tools.
+This repository is for a photo-sharing platform that identifies and removes AI-generated photos through community voting and automated analysis tools.
 
 # Features Overview
 
